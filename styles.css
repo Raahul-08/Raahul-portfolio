@@ -3,7 +3,7 @@ body{
 }
 
 .banner{
-    background-image: url(/portfolio/image/img1.jpg);
+    background-image: url(./image/img1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 200px;

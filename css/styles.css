@@ -1,14 +1,24 @@
-body{
-    font-family:'Poppins',sans-serif;
+body {
+    font-family: 'Poppins', sans-serif;
 }
 
-.banner{
+.banner {
     background-image: url(../image/img1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 200px;
 }
 
-.skill-padding{
+.skill-padding {
     padding: 70px 0;
+    background-color: rgb(244, 244, 244);
+}
+
+.details {
+    background-color: rgb(240, 240, 240);
+}
+.email{
+    text-decoration: none;
+    color:rgba(0, 0, 0, 0.84);
+    
 }
